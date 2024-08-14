@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+annotations_det/
+annotations_seg/
+dataset_det/
+dataset_det_raw/
+dataset_seg/
+dataset_seg_raw/
+detect/
+results/.ipynb_checkpoints/
+models/
+annotations_det.tar.gz
+annotations_seg.tar.gz
+dataset_det.tar.gz
+dataset_seg.tar.gz
+models.tar.gz
